@@ -3,7 +3,7 @@
   
   
   <frameset cols = "120,*">
-  <frame src = "menu.htm" name = "menu">
-  <frame src = "fontf.htm" name = "main">
+  <frame src = "frame_left.htm" name = "menu">
+  <frame src = "frame_right.htm" name = "main">
   </frameset>
 </html>
