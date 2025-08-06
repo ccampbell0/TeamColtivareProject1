@@ -2,12 +2,12 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Paula and Paul's Pizza Palooza</title>
+  <title>Coltivare</title>
 </head>
 <body bgcolor="#FFFFFF">
 
   <font face="Tahoma" size="5" color="#8B0000">
-    <h1><b><u>Paula and Paul's Pizza Palooza</u></b></h1>
+    <h1><b><u>Coltivare</u></b></h1>
   </font>
 
   <font face="Trebuchet MS" size="4" color="#743d2b">
@@ -16,19 +16,19 @@
 
   <font face="Verdana" size="3" color="#000000">
     <ol>
-      <li><i>Natalie Deck</i> – Restaurant Manager<br>
+      <li><i>Dylan Bradley</i> – Restaurant Manager<br>
         Leads the team and is responsible for operations.<br>
         <img src="nd.jpg" alt="Natalie Deck" width="300" height="300">
       </li>
-      <li><i>Kenzie Richardson</i> – Cashier<br>
+      <li><i>Claire Campbell</i> – Cashier<br>
         Records orders, handles cash.<br>
         <img src="kr.jpg" alt="Kenzie Richardson" width="300" height="300">
       </li>
-      <li><i>Connor Canfield</i> – Pizza Maker<br>
+      <li><i>Maxwell Blume</i> – Pizza Maker<br>
         Creates pizzas per customer requests.<br>
         <img src="cc.jpg" alt="Connor Canfield" width="300" height="300">
       </li>
-      <li><i>Paul Schwartz</i> – Prep Cook<br>
+      <li><i>Sonali Lotlikar</i> – Prep Cook<br>
         Preps ingredients and stations.<br>
         <img src="ps.jpg" alt="Paul Schwartz" width="300" height="300">
       </li>
