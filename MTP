@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Coltivare</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+  <font face="Tahoma" size="5" color="#8B0000">
+    <h1><b><u>Coltivare</u></b></h1>
+  </font>
+
+  <font face="Trebuchet MS" size="4" color="#743d2b">
+    <h2><u>Team Members</u></h2>
+  </font>
+
+  <font face="Verdana" size="3" color="#000000">
+    <ol>
+      <li><i>Dylan Bradley</i> – CEO & Co Founder<br>
+        Leads the company and makes top-level strategic decisions.<br>
+        <img src="nd.jpg" alt="Dylan Bradley" width="300" height="300">
+      </li>
+      <li><i>Claire Campbell</i> – CFO & Co Founder<br>
+        Manages the company's finances, budgeting, and financial planning.<br>
+        <img src="kr.jpg" alt="Claire Campbell" width="300" height="300">
+      </li>
+      <li><i>Maxwell Blume</i> – COO<br>
+        Handles day-to-day operations and internal business processes.<br>
+        <img src="cc.jpg" alt="Maxwell Blume" width="300" height="300">
+      </li>
+      <li><i>Sonali Lotlikar</i> – CMO<br>
+        Oversees marketing strategies, branding, and customer outreach.<br>
+        <img src="ps.jpg" alt="Sonali Lotlikar" width="300" height="300">
+      </li>
+      <li><i>Bruno Knize</i> – CTO<br>
+        Leads technology strategy, innovation, and product development.<br>
+        <img src="bk.jpg" alt="Bruno Knize" width="300" height="300">
+      </li>
+    </ol>
+
+    <h3>Our Best-Selling Products</h3>
+    <ul>
+      <li>Hoe</li>
+      <li>Rake</li>
+      <li>Shovel</li>
+      <li>Watering Pail</li>
+    </ul>
+
+    <p>
+      <a href="https://www.agriculture.com/"
+         target="_blank" rel="noopener">
+        Successful Farming
+      </a><br>
+      <a href="Guide of Best Farming Practices.pdf" download>
+        Download Best Farming Practices
+      </a><br>
+      <a href="mailto:coltivare@example.com">
+        Contact Us
+      </a>
+    </p>
+  </font>
+
+  <p>Date last modified:
+    <script>
+      document.write(document.lastModified);
+    </script>
+  </p>
+
+</body>
+</html>
