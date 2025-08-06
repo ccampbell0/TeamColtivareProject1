@@ -16,45 +16,46 @@
 
   <font face="Verdana" size="3" color="#000000">
     <ol>
-      <li><i>Dylan Bradley</i> – Restaurant Manager<br>
-        Leads the team and is responsible for operations.<br>
-        <img src="nd.jpg" alt="Natalie Deck" width="300" height="300">
+      <li><i>Dylan Bradley</i> – CEO & Co Founder<br>
+        Leads the company and makes top-level strategic decisions.<br>
+        <img src="nd.jpg" alt="Dylan Bradley" width="300" height="300">
       </li>
-      <li><i>Claire Campbell</i> – Cashier<br>
-        Records orders, handles cash.<br>
-        <img src="kr.jpg" alt="Kenzie Richardson" width="300" height="300">
+      <li><i>Claire Campbell</i> – CFO & Co Founder<br>
+        Manages the company's finances, budgeting, and financial planning.<br>
+        <img src="kr.jpg" alt="Claire Campbell" width="300" height="300">
       </li>
-      <li><i>Maxwell Blume</i> – Pizza Maker<br>
-        Creates pizzas per customer requests.<br>
-        <img src="cc.jpg" alt="Connor Canfield" width="300" height="300">
+      <li><i>Maxwell Blume</i> – COO<br>
+        Handles day-to-day operations and internal business processes.<br>
+        <img src="cc.jpg" alt="Maxwell Blume" width="300" height="300">
       </li>
-      <li><i>Sonali Lotlikar</i> – Prep Cook<br>
-        Preps ingredients and stations.<br>
-        <img src="ps.jpg" alt="Paul Schwartz" width="300" height="300">
+      <li><i>Sonali Lotlikar</i> – CMO<br>
+        Oversees marketing strategies, branding, and customer outreach.<br>
+        <img src="ps.jpg" alt="Sonali Lotlikar" width="300" height="300">
       </li>
-      <li><i>Bruno Knize</i> – Line Cook<br>
-        Prepares dishes, sauces, plating.<br>
+      <li><i>Bruno Knize</i> – CTO<br>
+        Leads technology strategy, innovation, and product development.<br>
         <img src="bk.jpg" alt="Bruno Knize" width="300" height="300">
       </li>
     </ol>
 
-    <h3>Our Best-Selling Pizzas</h3>
+    <h3>Our Best-Selling Products</h3>
     <ul>
-      <li>Margherita</li>
-      <li>Pepperoni</li>
-      <li>Four Cheese</li>
+      <li>Hoe</li>
+      <li>Rake</li>
+      <li>Shovel</li>
+      <li>Watering Pail</li>
     </ul>
 
     <p>
-      <a href="https://clarityvoice.com/news/successful-pizza-restaurants/"
+      <a href="https://www.agriculture.com/"
          target="_blank" rel="noopener">
-        Our Secret Recipe!
+        Successful Farming
       </a><br>
-      <a href="Nonnarecipe.pdf" download>
-        Download Nonna's Tutorial
+      <a href="Guide of Best Farming Practices.pdf" download>
+        Download Best Farming Practices
       </a><br>
-      <a href="mailto:paulaandpaul@example.com">
-        Contact Me
+      <a href="mailto:coltivare@example.com">
+        Contact Us
       </a>
     </p>
   </font>
