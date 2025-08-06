@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Paula and Paul's Pizza Palooza</title>
+</head>
+<body bgcolor="#FFFFFF">
+
+  <font face="Tahoma" size="5" color="#8B0000">
+    <h1><b><u>Paula and Paul's Pizza Palooza</u></b></h1>
+  </font>
+
+  <font face="Trebuchet MS" size="4" color="#743d2b">
+    <h2><u>Team Members</u></h2>
+  </font>
+
+  <font face="Verdana" size="3" color="#000000">
+    <ol>
+      <li><i>Natalie Deck</i> – Restaurant Manager<br>
+        Leads the team and is responsible for operations.<br>
+        <img src="nd.jpg" alt="Natalie Deck" width="300" height="300">
+      </li>
+      <li><i>Kenzie Richardson</i> – Cashier<br>
+        Records orders, handles cash.<br>
+        <img src="kr.jpg" alt="Kenzie Richardson" width="300" height="300">
+      </li>
+      <li><i>Connor Canfield</i> – Pizza Maker<br>
+        Creates pizzas per customer requests.<br>
+        <img src="cc.jpg" alt="Connor Canfield" width="300" height="300">
+      </li>
+      <li><i>Paul Schwartz</i> – Prep Cook<br>
+        Preps ingredients and stations.<br>
+        <img src="ps.jpg" alt="Paul Schwartz" width="300" height="300">
+      </li>
+      <li><i>Bruno Knize</i> – Line Cook<br>
+        Prepares dishes, sauces, plating.<br>
+        <img src="bk.jpg" alt="Bruno Knize" width="300" height="300">
+      </li>
+    </ol>
+
+    <h3>Our Best-Selling Pizzas</h3>
+    <ul>
+      <li>Margherita</li>
+      <li>Pepperoni</li>
+      <li>Four Cheese</li>
+    </ul>
+
+    <p>
+      <a href="https://clarityvoice.com/news/successful-pizza-restaurants/"
+         target="_blank" rel="noopener">
+        Our Secret Recipe!
+      </a><br>
+      <a href="Nonnarecipe.pdf" download>
+        Download Nonna's Tutorial
+      </a><br>
+      <a href="mailto:paulaandpaul@example.com">
+        Contact Me
+      </a>
+    </p>
+  </font>
+
+  <p>Date last modified:
+    <script>
+      document.write(document.lastModified);
+    </script>
+  </p>
+
+</body>
+</html>
