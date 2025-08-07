@@ -5,6 +5,7 @@
   <font face="Tahoma" size="5" color="#567866">
 </head>
 </font>
+<body>
     <h2><u><i>Primary Services for the Farming Industry</i></u></h2>
 <font face="Tahoma" size="3" color="#00000">
         <li>Precision Crop Management<br>
@@ -15,5 +16,5 @@
        - Harvest Planning & Yield Forecasting</li><br>
 <a href="https://www.farmraise.com/blog/crop-yield-estimation-enhancing-agricultural-productivity-and-food-security">
 <h3>Other Services Include on site farming training workshops, machine repairs, and custom seed recomendations. <br>
-<img src = "agriculture.jpg">
-
+<img src = "agriculture.jpg" width = 480 height = 360>
+</body>
