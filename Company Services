@@ -27,4 +27,7 @@
 <img src = "agriculture.jpg" width = 480 height = 360>
 </center>
 
+<a href="mailto:campb598@purdue.edu">Contact Us</a>
+
+<script>document.write(document.lastModified);</script>
 </body>
